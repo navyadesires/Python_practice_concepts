@@ -1,0 +1,2 @@
+f{num} is even number
+56734 reverse is 43765
